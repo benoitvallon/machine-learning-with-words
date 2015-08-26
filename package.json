@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "brain": "^0.7.0",
     "mimir": "0.0.1"
   }
 }
